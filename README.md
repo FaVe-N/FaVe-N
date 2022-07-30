@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaVe-N
+- 👋 Hi, I’m Uloma
 - 👀 I’m interested in anything computer-related
 - 🌱 I’m currently learning JavaScript and python
 - 💞️ I’m looking to collaborate on projects and stuff
