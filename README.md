@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uloma
 - 👀 I’m interested in anything computer-related
-- 🌱 I’m currently learning JavaScript and python
+- 🌱 I’m currently learning JavaScripttt
 - 💞️ I’m looking to collaborate on projects and stuff
 - 📫 You can reach me via my email: nnejifavour02@gmail.com
 
